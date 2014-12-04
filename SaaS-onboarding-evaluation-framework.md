@@ -1,3 +1,5 @@
+[Printable version](https://gitprint.com/dotMR/knowledge-base/blob/master/SaaS-onboarding-evaluation-framework.md)
+
 The concepts discussed in this document are largely distilled from the writings of Samuel Hulick [@Useronboard](https://twitter.com/useronboard). For further reading, please visit: <http://www.useronboard.com>.
 
 Thank you!
