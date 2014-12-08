@@ -14,23 +14,17 @@ Remember that prospective users are frustrated with their current way of doing t
 
 The best onboarding experiences:
 
+* Are easy
 * Frame the conversation in regards to __user benefits__ rather than __software features__
-* closely align with getting people from A to B in their lives. 
+* Closely align with getting people from A to B in their lives. 
+* Allow users to reach the 'aha!' moment of understanding your product __before__ they sign up (not once they start using it)
 
 How to do this?
 
 * Make adoption easy
 * Align yourself and your product with user success
 * Answer questions before they are asked
-* Don't assume any level of familiarity with the functionality
-
-
-###Objectives
-The goal of the onboarding process is to:
-
-1. Convince viewers to try out your service
-2. Convert trial users to become paid users
-
+* Don't assume any level of familiarity with the product
 
 
 ###Metrics
@@ -43,6 +37,7 @@ Good times to interact with the perspective user include:
 * After successfully completing the workflow. Great time for a high-five and provide next steps.
 * Nearing the end of the trial period but haven't finished the workflow. How can you convert them?
 
+You know your onboarding process is working not when more new users sign up, but when more users start coming back to use it.
 
 
 ###Value Proposition
@@ -231,6 +226,11 @@ Examples:
 	* Similarly, possibly offer one-click registration / sign-up using the existing social networks
 * When applicable, customize UX and content to user (browser/OS/location sniffing)
 
+
+###Social Sign-In
+* Potential user likely already has an account setup with a social provider
+* Eliminates one step in the onboarding process
+* Added benefit of possibly exposing your product to the network of the user
 
 
 ###User Interactions
